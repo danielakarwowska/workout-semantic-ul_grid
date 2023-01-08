@@ -1,0 +1,12 @@
+{
+  "name": "workout-semantic-ul_grid",
+  "version": "1.0.0",
+  "repository": "https://github.com/danielakarwowska/workout-semantic-ul_grid.git",
+  "license": "MIT",
+  "scripts": {
+    "build": "./tools/build.sh"
+  },
+  "devDependencies": {
+    "sass": "^1.56.2"
+  }
+}
